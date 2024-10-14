@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning, AI integration, Collaboration and Networking
 - 🌱 I’m currently learning Full-Stack Development, Python and basically general code
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on social media is @ndv876 on Instagram, Twitter
+- 📫 How to reach me on social media is @ndv876 on Instagram & Twitter, Nicholas D Vaughan on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing yet...I'll revisit this shortly...
 
